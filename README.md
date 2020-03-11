@@ -17,6 +17,7 @@ a demo repository for git learning
 
 # 使用编码
 为了避免乱码，本项目写作时全部使用 简体中文 / Unicode UTF-8 编码
+所用到公式使用 word 公式编辑器格式编写
 
 # 目录
 homework 目录存放作业答案，bin 目录存放插图等附件。
