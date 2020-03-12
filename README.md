@@ -1,5 +1,6 @@
 # mobile_homework
-a demo repository for git learning
+a demo repository for git learning<br>
+没什么屁用，写给自己看的
 # markdown 语法
 **换行**<br>
 
