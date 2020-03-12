@@ -1,5 +1,7 @@
 # mobile_homework
-a demo repository for git learning
+a demo repository for git learning<br>
+本项目可用来作为熟悉 Git 使用的练习，可随意揉捏<br>
+说明文件请提交到主分支，其他文件可以新建分支，之后再合并
 # markdown 语法
 **换行**<br>
 
